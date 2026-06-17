@@ -1,0 +1,34 @@
+# SQL Learning Journey – Day 1 🚀
+
+Today, I completed my SQL Basics revision and hands-on practice.
+
+## ✅ Topics Covered:
+- SQL, Database, DBMS, RDBMS
+- Relational Database
+- Primary Key & Foreign Key
+- Constraints and ON DELETE CASCADE
+- DDL, DML, DQL, DCL, TCL
+- COMMIT, ROLLBACK, SAVEPOINT
+
+## 💻 Practiced SQL Queries:
+- CREATE
+- ALTER
+- INSERT
+- UPDATE
+- DELETE
+- SELECT
+- GRANT
+- REVOKE
+- COMMIT
+- ROLLBACK
+- SAVEPOINT
+
+## 🎯 Today's Takeaway:
+Building a strong SQL foundation is an important step toward becoming a Java Full Stack Developer.
+
+## 📌 Next Goal:
+WHERE, ORDER BY, DISTINCT, LIKE, IN, BETWEEN, LIMIT, and SQL interview questions.
+
+---
+
+⭐ Follow my journey for daily SQL practice updates!
