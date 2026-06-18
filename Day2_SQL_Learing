@@ -1,0 +1,29 @@
+📘 SQL Learning Journey – Day 2 🚀
+
+Continuing my SQL learning journey with consistent practice and hands-on query writing.
+
+Today I focused on data filtering and retrieval operations in SQL, which are essential for working with real-world databases.
+
+✅ Topics Covered:
+SELECT statement for data retrieval
+WHERE clause for filtering records
+ORDER BY for sorting results
+DISTINCT keyword to remove duplicate values
+Comparison operators (=, <, >, <=, >=)
+Logical operators (AND, OR, NOT)
+IN, BETWEEN, LIKE operators
+💻 Practiced SQL Queries:
+Filtering records using WHERE condition
+Sorting data in ascending and descending order
+Using multiple conditions in a single query
+Extracting specific records from tables
+Removing duplicate data using DISTINCT
+🎯 Today's Takeaway:
+
+I learned how to efficiently filter, sort, and retrieve meaningful data from databases using SQL queries.
+This is a key foundation for backend development and data handling.
+
+📌 Next Goal:
+Aggregate functions (COUNT, SUM, AVG, MIN, MAX)
+GROUP BY and HAVING clauses
+Introduction to JOINS
