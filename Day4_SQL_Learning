@@ -1,0 +1,19 @@
+SQL Learning Journey – Day 4 Completed
+
+Today I practiced advanced SQL functions and filtering techniques.
+
+✅ Topics Covered:
+LIMIT & OFFSET
+Aggregate Functions:
+COUNT()
+SUM()
+AVG()
+MIN()
+MAX()
+GROUP BY
+HAVING clause
+🧠 Practice Focus:
+Filtering top records using LIMIT & OFFSET
+Finding total, average, minimum, maximum values
+Grouping data using GROUP BY
+Filtering grouped data using HAVING
