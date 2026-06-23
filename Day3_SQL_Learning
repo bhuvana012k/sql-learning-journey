@@ -1,0 +1,23 @@
+SQL Learning Journey – Day 3 Completed
+
+Today I continued my SQL learning with JOINS and real query practice.
+
+✅ Topics Covered:
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+SELF JOIN
+JOIN with multiple tables
+GROUP BY with JOIN
+🧠 Practice Queries:
+Display student names with their department names
+Show all students even if they don’t belong to any department
+Show all departments even if no students are assigned
+Find employees and their managers using SELF JOIN
+Count employees in each department using JOIN + GROUP BY
+❓ Interview Questions:
+Difference between INNER JOIN and LEFT JOIN
+What is SELF JOIN?
+What happens when there is no matching record in JOIN?
+Difference between LEFT JOIN and RIGHT JOIN
+Can we join more than two tables?
